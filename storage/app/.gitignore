@@ -1,0 +1,11 @@
+*
+!public/
+!.gitignore
+!user/
+!mobil-baru/
+!gallery/
+!post/
+!interior
+!keamanan
+!mobilbekas
+!berkasrequest
