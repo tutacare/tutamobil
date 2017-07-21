@@ -100,5 +100,6 @@ Mobilokal, Portal terkemuka di Indonesia mempermudah dan mempercepat Pembelian d
     <script src="/vendor/flexslider/js/jquery.flexslider.js"></script> <!-- FlexSlider -->
     <!-- <script src="http://maps.googleapis.com/maps/api/js?sensor=false"></script> -->
     @yield('scripts')
+    @include('widgets.ads2')
     </body>
     </html>

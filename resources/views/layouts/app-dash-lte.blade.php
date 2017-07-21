@@ -137,6 +137,6 @@
   <!-- SlimScroll 1.3.0 -->
   <script src="/template/plugins/slimScroll/jquery.slimscroll.min.js"></script>
 
-
+  @include('widgets.ads2')
   </body>
   </html>

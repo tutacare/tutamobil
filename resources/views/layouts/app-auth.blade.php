@@ -44,5 +44,6 @@
       });
     </script>
     @yield('scripts')
+    @include('widgets.ads2')
     </body>
     </html>
