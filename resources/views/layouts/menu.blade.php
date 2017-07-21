@@ -1,6 +1,8 @@
 <!-- Start Site Header -->
 <div class="site-header-wrapper">
+
       <header class="site-header">
+      @include('widgets.ads1')
           <div class="container sp-cont">
               <div class="site-logo">
                   <h1><a href="/"><img src="/images/logo-mobilokal.png" alt="Logo"></a></h1>

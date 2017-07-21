@@ -4,9 +4,11 @@
 
 @section('content')
 <body class="hold-transition login-page">
+@include('widgets.ads1')
 <div class="login-box">
+
   <div class="login-logo">
-    <a href="/"><b>MOBILOKAL</b>.COM</a>
+    <a href="/"><b>TUTA</b>MOBIL</a>
   </div>
   <!-- /.login-logo -->
   <div class="login-box-body">

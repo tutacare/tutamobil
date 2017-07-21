@@ -41,7 +41,7 @@
       <!-- mini logo for sidebar mini 50x50 pixels -->
       <span class="logo-mini"><b>M</b>L</span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><b>MOBILOKAL</b> .COM</span>
+      <span class="logo-lg"><b>TUTA</b> MOBIL</span>
     </a>
 
 
@@ -96,6 +96,8 @@
 
   <!-- Content Wrapper. Contains page content -->
   <div class="content-wrapper">
+  <br />
+  @include('widgets.ads1')
     <!-- Content Header (Page header) -->
     <section class="content-header">
       <h1>@yield('content-header', 'Dashboard')<small>@yield('content-header-small', 'Halaman')</small></h1>
@@ -109,6 +111,7 @@
     <section class="content">
 
     @yield('content')
+
   </section>
 
 </div>

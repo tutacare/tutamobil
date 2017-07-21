@@ -40,7 +40,10 @@ APPLY SEKARANG JUGA. Mobilokal, Portal terkemuka di Indonesia mempermudah dan me
 	<p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
 <![endif]-->
 <div class="body">
+
   @include('layouts.menu')
+
+  @include('widgets.ads1')
 
     @yield('content')
 
